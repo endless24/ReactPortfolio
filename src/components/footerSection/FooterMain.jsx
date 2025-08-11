@@ -29,7 +29,7 @@ function FooterMain() {
           ))}
         </ul>
       </div>
-      <p className="text-lightBrown text-right sm:text-center max-w-[1200px]  mb-12 mt-2 mx-auto text-sm">
+      <p className="text-lightBrown lg:text-right sm:text-center max-w-[1200px]  mb-12 mt-2 mx-auto text-sm">
         2025 Joseph Iroh | All Rights Reserved.
       </p>
     </div>
